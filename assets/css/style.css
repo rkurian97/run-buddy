@@ -50,3 +50,20 @@ header h1{
     margin: 0;
     display: inline;
 }
+
+footer{
+    background: #fce138;
+    width: 100%;
+    padding: 40px 35px;
+}
+
+footer h2{
+    display:inline;
+    color: #024e76;
+    font-size: 30px;
+    margin:0;
+}
+
+footer div{
+    float
+}
